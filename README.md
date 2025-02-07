@@ -3,31 +3,23 @@
 # FINOS DTCC Hackathon 
 
 
-## Project Name
+## Mitigating the Risks of Generative AI: Deepfake Detection and Prevention
 
 
 ### Project Details
+With the latest advancements in generative AI and the widespread accessibility of models and
+hardware, deepfakes are becoming more prevalent, hyper-realistic, and harder to distinguish from
+authentic media. The ability to manipulate audio, images, and videos with high fidelity and minimal
+expertise has significantly lowered the barrier for malicious use. This poses serious threats,
+including fraud, identity theft, misinformation, and the erosion of public trust in digital content,
+highlighting the urgent need for robust detection mechanisms and ethical safeguards.
 
+We propose a model that uses deep learning models to detect deepfakes.
 
 ### Team Information
-
-
-## Using DCO to sign your commits
-
-**All commits** must be signed with a DCO signature to avoid being flagged by the DCO Bot. This means that your commit log message must contain a line that looks like the following one, with your actual name and email address:
-
-```
-Signed-off-by: John Doe <john.doe@example.com>
-```
-
-Adding the `-s` flag to your `git commit` will add that line automatically. You can also add it manually as part of your commit log message or add it afterwards with `git commit --amend -s`.
-
-See [CONTRIBUTING.md](./.github/CONTRIBUTING.md) for more information
-
-### Helpful DCO Resources
-- [Git Tools - Signing Your Work](https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work)
-- [Signing commits
-](https://docs.github.com/en/github/authenticating-to-github/signing-commits)
+* Erik Dali - Global Markets, Data Science & Algorithmic Trading. Repository: https://github.com/erik-dali
+* Michael Madden - Information Security
+* Vishesh Shah - Information Security
 
 
 ## License
